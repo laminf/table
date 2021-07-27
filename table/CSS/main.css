@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    font-size: x-large;
+}
+table{
+    border: 1.2pc solid black;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 300px;
+
+}
+tr,td,th{
+    border: 2.5px solid black;
+
+}
+th{
+    text-align: center;
+}
+th{
+    background-color: blue;
+}
